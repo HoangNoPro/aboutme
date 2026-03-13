@@ -15,28 +15,28 @@ import {
 } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
-  applicationName: "Aarab Nishchal",
-  title: "Aarab Nishchal | Full Stack Developer & AI Engineer",
+  applicationName: "Nguyen Hoang",
+  title: "Nguyen Hoang | Portfolio",
   description:
-    "Aarab Nishchal is a student developer passionate about building modern web apps with Next.js, React, and open-source tools. Explore his projects, experiments, and developer portfolio.",
+    "Hi! I'm Hoang.",
   authors: [
     {
-      name: "Aarab Nishchal",
-      url: "https://aarab.vercel.app",
+      name: "Nguyen Hoang",
+      url: "https://hiimhoang.vercel.app",
     },
   ],
-  creator: "Aarab Nishchal",
+  creator: "Nguyen Hoang",
   referrer: "origin-when-cross-origin",
   category: "Portfolio",
   classification: "Software Development",
   keywords: Keywords,
-  metadataBase: new URL("https://aarab.vercel.app"),
+  metadataBase: new URL("https://hiimhoang.vercel.app"),
 
 
   alternates: {
-    canonical: "https://aarab.vercel.app",
+    canonical: "https://hiimhoang.vercel.app",
     languages: {
-      "en-US": "https://aarab.vercel.app",
+      "en-US": "https://hiimhoang.vercel.app",
     },
   },
   robots: {
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   appleWebApp: {
     capable: true,
-    title: "Aarab Nishchal",
+    title: "Nguyen Hoang",
     statusBarStyle: "black-translucent",
   },
   formatDetection: {
@@ -92,17 +92,17 @@ export const metadata: Metadata = {
   manifest: "/manifest.json",
 
   openGraph: {
-    title: "Aarab Nishchal",
+    title: "Nguyen Hoang",
     description:
-      "Explore Aarab Nishchal’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
+      "Explore Nguyen Hoang’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
     url: "https://aarab.vercel.app",
-    siteName: "Aarab Nishchal",
+    siteName: "Nguyen Hoang",
     images: [
       {
         url: "/images/thumbnail.png",
         width: 1200,
         height: 630,
-        alt: "Aarab Nishchal Portfolio Thumbnail",
+        alt: "Nguyen Hoang Portfolio Thumbnail",
       },
     ],
     locale: "en_US",
@@ -112,9 +112,9 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Aarab Nishchal",
+    title: "Nguyen Hoang",
     description:
-      "Check out Aarab Nishchal’s personal portfolio and dev projects using Next.js, React, Tailwind, and modern web tech.",
+      "Check out Nguyen Hoang’s personal portfolio and dev projects using Next.js, React, Tailwind, and modern web tech.",
     images: ["/images/thumbnail.png"],
     creator: "@aarab_ii",
     site: "@aarab_ii",
