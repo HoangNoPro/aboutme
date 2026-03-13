@@ -3,7 +3,7 @@ export const selfData = {
   first_name: "Hoang",
   last_name: "Nguyen",
   jobTitle: "Student",
-  workFor: "KIIT University",
+  workFor: "Hanoi University of Industry",
   current_location: {
     city: "Ha Nam",
     state: "Phu Ly",
