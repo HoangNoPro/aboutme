@@ -41,6 +41,6 @@ export const selfData = {
     linkedin: " ",
     snapchat: " ",
     telegram: "hoag091",
-    twitter: "aarab_ii",
+    twitter: "wordldismine091",
   },
 };
